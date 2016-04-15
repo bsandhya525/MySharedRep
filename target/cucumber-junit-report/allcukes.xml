@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" tests="1">
+<testcase classname="Logging a user into app" name="Logging a user into app with credentials" time="0.158731">
+<system-out><![CDATA[Given User clicks on the login link.....................................................passed
+And Enter username as sample........................................................passed
+And Enter password as test.........................................................passed
+And Click on loginbutton..........................................................passed
+Then User login should be success......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
